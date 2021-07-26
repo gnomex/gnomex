@@ -1,9 +1,10 @@
 ## Kenner Kliemann
   I'm a learner and passionate on problem solving with technologies. Specially if I can craft/hack/optimize some **interesting/fun** code
 
-- :rocket: currently working at **Inteligov**
+- :rocket: currently working at **RD Station**
 - :hammer_and_wrench: always learning and crafting techs
-- 💬 Ask me about linux, ruby, rails, javascript, techs... Science, nutrition, plants, gardening, consciousness, the meaning of life, universe and all things
+- 💬 Ask me about linux, ruby, rails, javascript, techs... Science, plants, gardening, consciousness, the meaning of life, universe and all things...
+
 
 
 <table align="center" style="border:none">
@@ -17,7 +18,6 @@
   <tr align="center">
     <td colspan=2><img src="https://github-readme-streak-stats.herokuapp.com/?user=gnomex&hide_border=true"/></td>
   </tr>
-  
 </table>
 
 
